@@ -1,2 +1,2 @@
-# DDSS-project
+# Trying GitHub
 DDSS and Pattern Recognition Project
